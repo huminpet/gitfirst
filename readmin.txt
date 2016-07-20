@@ -1,10 +1,2 @@
 GIT IS A VERSION CONTROL SYSTEM
 git is free software
-create dev branch
-
-I am master create feature branch
-<<<<<<< HEAD
-ok
-=======
-test fetch
->>>>>>> bd7fc204778acac831ea47eaed91d3510b203163
